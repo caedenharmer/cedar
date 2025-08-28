@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <cmark.h>
 
 void daily_create(void) { 
   time_t t = time(NULL);
